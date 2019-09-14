@@ -1,0 +1,4 @@
+D:\Git\matrix-vector\obj\Debug\netcoreapp2.1\matrix-vector.csprojAssemblyReference.cache
+D:\Git\matrix-vector\obj\Debug\netcoreapp2.1\matrix-vector.csproj.CoreCompileInputs.cache
+D:\Git\matrix-vector\obj\Debug\netcoreapp2.1\matrix-vector.AssemblyInfoInputs.cache
+D:\Git\matrix-vector\obj\Debug\netcoreapp2.1\matrix-vector.AssemblyInfo.cs
